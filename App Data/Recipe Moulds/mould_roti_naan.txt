@@ -1,0 +1,20 @@
+flour,main,dressing
+2,2,4
+1.Take the * flour in a deep bowl, mix well and knead to make a semi-stiff smooth using enough water. Cover and keep aside for at least 10 to 15 minutes.
+2.Divide the dough into 4 equal portions and keep aside.
+3.Prepare the stuffing using * combined with *. Divide the stuffing into 4 equal portions and keep aside.
+4.Roll out a portion of the dough into a 100 mm. (4”) diameter circle using a little wheat flour.
+5.Place a portion of the stuffing in the centre, fold the edges towards the centre and seal well so the stuffing doesn’t spill out.
+6.Roll out again into 125 mm. (5”) diameter circle using a little wheat flour.
+7.Heat a non-stick tava (griddle) and cook each roti, using a little oil, till golden brown spots appear on both the sides.
+8.Repeat steps 2 to 5 to make 3 more rotis. Serve immediately.
+
+flour,main
+2,2
+1.Combine yeast, sugar and 5 tbsp of lukewarm water in a bowl, mix gently and cover with a lid and keep aside for 4 to 5 minutes.
+2.Combine the * flour and all other ingredients * with salt and the above yeast-sugar paste in a deep bowl and knead into a soft dough using little water.
+3.Cover the dough with a lid or wet muslin cloth and allow it prove till it increases in volume slightly (approx. 30 minutes).
+4.Divide the dough into 6 equal portions.
+5.Heat a non-stick tava (griddle) and cook each naan, using a little oil, till golden brown spots appear on both the sides.
+6.Repeat steps 2 to 5 to make 3 more naans. Serve immediately.
+7.Brush each naan with a little butter and serve immediately.

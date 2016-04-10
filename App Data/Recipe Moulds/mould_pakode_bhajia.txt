@@ -1,0 +1,16 @@
+2
+batter,oil,main,sprinkle
+3,1,1,4
+1.Combine * along with ½ cup of water in a bowl and mix well to make the batter.
+2.Heat the * oil in a deep kadhai, dip each cube/slice of * in the batter and deep-fry 8 to 10 at a time on a high flame till they turn golden brown in colour from all the sides.
+3.Remove and sprinkle a pinch of * on top of the batter-coated cubes/slices
+4.Repeat step 2 to make more pakodas.
+5.Drain on absorbent paper and serve immediately with the chutney of your choice.
+
+batter,main,oil,sprinkle
+3,1,1,4
+1.Grind * and combine with * along with ½ cup of water in a bowl and mix well to make a smooth paste like batter.
+2.Heat the * oil in a deep kadhai, and with your hands take small portions of the batter and deep-fry it for 8 to 10 at a time on a high flame till they turn golden brown in colour from all the sides.
+3.Remove and sprinkle a pinch of * on top of the bhajias.
+4.Repeat step 2 to make more bhajias.
+5.Drain on absorbent paper and serve immediately with the chutney of your choice.

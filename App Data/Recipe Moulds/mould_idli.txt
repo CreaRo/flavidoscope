@@ -1,0 +1,11 @@
+1
+dal,seed,vegetable,fruit
+2,2,4,2
+1.Soak the * dal and * seeds together in enough water for 3 hours and drain.
+2.Blend the dal and seeds together in a mixer till smooth and frothy (add water little by little as required ) remove and keep aside.
+3.Soak the rice in enough water for 3 hours and drain. Blend the rice in a mixer till smooth. Remove and keep aside.
+4.Combine the dal paste and rice paste together in a bowl and cover and keep aside to ferment overnight.
+5.Add the vegetables * and fruits * and mix well.
+6.Once the batter is fermented add salt to the batter and mix well.
+7.Put spoonfuls of the batter into greased idli moulds and steam for 10 to 12 minutes.
+8.Repeat with the remaining batter to make more idlis. Serve hot with fried coconut chutney and sambhar.
